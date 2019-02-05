@@ -1,5 +1,3 @@
-import numpy
-
 class Matrix(object):
     def __init__(self, matrix_string):
         self.matrix = []
